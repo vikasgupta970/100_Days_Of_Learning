@@ -1,6 +1,9 @@
 /*
 -> Time complexity in Worst Case is ----> O(N^2) 
 -> It swaps element n*(n-1) times
+
+-> n-1 iteration required to sort an array of size n
+-> every iteration traverse n-i , where i is no of iteration
 */
 #include<iostream>
 using namespace std;
