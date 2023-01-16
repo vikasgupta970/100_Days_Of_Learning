@@ -37,6 +37,5 @@ int main() {
     string P,Q;
     cin>>P>>Q;
     cout<<Q+P;
-    
     return 0;
 }
